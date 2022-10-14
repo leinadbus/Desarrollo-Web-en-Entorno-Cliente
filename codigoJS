@@ -1,1 +1,10 @@
+<!DOCTYPE html>
+<html lang="en-ES">
+<head>
+<meta charset="UTF-8">
+<title>Ejemplo inclusión JavaScript</title>
+</head>
+<body>
+</body>
 <script src="js/myscript.js"></script>
+</html>
