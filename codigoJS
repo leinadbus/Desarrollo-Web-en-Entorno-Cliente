@@ -6,5 +6,8 @@
 </head>
 <body>
 </body>
-<script src="js/myscript.js"></script>
+<script type="text/javascript"></script>
 </html>
+
+//Inserción directa en HTML:
+<script type="text/javascript" src="js/myscript.js"></script>
